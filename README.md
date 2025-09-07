@@ -1,7 +1,7 @@
 #  **Server-Log-Data-Extraction-and-User-History-Database-Update**
 
 ### *Problem Statement*
-##  <ins>*Task involves:</ins>*
+##  *Task involves:*
 
   * Extracting email addresses and their corresponding dates from a server log file (mbox.txt).
 * Transforming and cleaning the extracted data for consistency.
